@@ -6,11 +6,12 @@ type Language : String enum {
     EN = 'English'
 }
 
-
+/*
 @description: 'Dummy entity to force the correct generation of the Language enum'
 entity Dummy {
     language : Language
 }
+*/
 
 
 entity Books {
