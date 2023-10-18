@@ -2,7 +2,7 @@
   "name": "cds-typer-issue",
   "version": "1.0.0",
   "description": "A simple CAP project.",
-  "repository": "<Add your repository here>",
+  "repository": "https://github.com/rgrenz/cds-typer-issue",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
